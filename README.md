@@ -14,10 +14,35 @@
   <li>Input Types</li>
   <li>Responsive</li>
   <li>Media</li>
-  
+  <li> Basic Web pages</li>  
 </ul>
 
 ## Experienced level
-test
+
+To get this level you should have knowledge on Javascript and Css
+
+<ul>
+  <li>Canvas / SVG</li>
+  <li>Push Notifications</li>
+  <li>Storages/Cookies</li>
+  <li>Events</li>
+  <li>Animation Effects</li>
+  <li>Mouse / Keyboard Actions</li>
+  <li>Dom work flow</li>
+  <li>Advanced Web pages</li>
+ </ul>
+ 
 ## Architech level
-test
+
+To get this level you should have knowledge on Javascript and Css
+<ul>
+  <li>Geolocations</li>
+  <li>Access Audio,Video, Notifications</li>
+  <li>Create Custom Elements</li>
+  <li>Create Custom Events</li>
+  <li>Web Workers</li>
+  <li>Drag and Drops</li>
+  <li>Dynamic Elements</li>
+  <li>Large Functionality example</li>
+ </ul>
+
