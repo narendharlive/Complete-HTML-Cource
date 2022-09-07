@@ -1,4 +1,4 @@
-# Complete-HTML-Cource
+# Complete HTML Cource
 ## Basic level
 <ul>
   <li>Introduction</li>
@@ -17,7 +17,7 @@
   <li> Basic Web pages</li>  
 </ul>
 
-## Experienced level
+## Experienced level | Senior HTML Developer
 
 To get this level you should have knowledge on Javascript and Css
 
@@ -32,7 +32,7 @@ To get this level you should have knowledge on Javascript and Css
   <li>Advanced Web pages</li>
  </ul>
  
-## Architech level
+## Expertize level  | HTML Specialist 
 
 To get this level you should have knowledge on Javascript and Css
 <ul>
